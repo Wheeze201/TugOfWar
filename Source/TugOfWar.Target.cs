@@ -11,5 +11,7 @@ public class TugOfWarTarget : TargetRules
 		DefaultBuildSettings = BuildSettingsVersion.V5;
 
 		ExtraModuleNames.AddRange( new string[] { "TugOfWar" } );
+		
+		
 	}
 }
